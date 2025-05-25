@@ -66,6 +66,21 @@ UaExpert
 ![image](https://github.com/user-attachments/assets/93c434e2-fa2f-4849-9cd3-4caa3c1f361b)
 
 
+## Список компонентов на закупку
+* Модули ввода-вывода:
+* Для Handling and Packing station PLC –  ICP DAS U-7561M
+* Для Sorting station PLC – ICP DAS U-7567M
+* Для Proccesing station PLC – ICP DAS U-7560M.
+* DIN-рейки для их потенциального монатажа
+
+Пневматика
+
+* Электромагнитные пневматические клапаны 
+* Фитинги и трубки
+* Промышленные пневматические провода
+
+Остальное:
+* Замены коробки для испытаний модель siemens
 
 
 ## Что  мы оставляем студентам следующего курса!
