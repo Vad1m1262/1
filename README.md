@@ -13,9 +13,6 @@
 Siemens TIA Portal V16 / SIMATIC STEP 7 incl. Safety and WinCC V16  
 UaExpert
 
-## Ссылка на проект
-[HS Line 316](https://drive.google.com/drive/folders/10Y2lL00LheItdtCxrIDzM5lAGOLko-ze?usp=sharing)
-
 ## Архитектура
 ПЛК взаимодействут друг с другом благодаря стандарту Profinet 
 
@@ -29,12 +26,9 @@ UaExpert
 ## Передача и сбор данных на ПЛК
 ### Передача данных
 Передачу данных была реализованна с помощью блока PUT в Tia Portal
-![изображение](https://github.com/n0th1ngs89/HS_Line_316_I-O/assets/146949002/6581da98-b933-4021-b081-be2306663c30)
 
 ### Сбор данных
 Сбор данных был реализован с помощью блока GET в Tia Portal
-
-![изображение](https://github.com/n0th1ngs89/HS_Line_316_I-O/assets/146949002/b206100b-15a7-44b3-8e9e-9ef3aa4cb85b)
 
 ## Итог работы
 Реализован сбор и передача данных между ПЛК. Поднят OPC сервер. Реализована передача данных на OPC сервер. 
