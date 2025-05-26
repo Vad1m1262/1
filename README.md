@@ -16,6 +16,7 @@
 
 ## Ссылка на репозиторий (2024 год)
 [HS Line 316(команда логики)](https://github.com/anvax/HS_line316?tab=readme-ov-file#%D0%B0%D0%B2%D1%82%D0%BE%D1%80%D1%8B)
+
 [HS Line 316(команда поддержки)](https://drive.google.com/drive/folders/10Y2lL00LheItdtCxrIDzM5lAGOLko-ze?usp=sharing)
 
 ## Используемое ПО
