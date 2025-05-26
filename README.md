@@ -59,9 +59,9 @@ UaExpert
   
 ## Список компонентов на закупку
 Модули ввода-вывода:
-* Для Handling and Packing station PLC –  ICP DAS U-7561M
-* Для Sorting station PLC – ICP DAS U-7567M
-* Для Proccesing station PLC – ICP DAS U-7560M.
+* Для Handling and Packing station PLC –  ICP DAS U-7561M (ссылка: https://icp-das.ru/product/u-7561m?ysclid=mb55e9n5m9117659773)
+* Для Sorting station PLC – ICP DAS U-7567M (ссылка: https://icp-das.ru/product/u-7567m?ysclid=mb55fhdhly456567987)
+* Для Proccesing station PLC – ICP DAS U-7560M (ссылка: https://icp-das.ru/product/u-7560m?ysclid=mb55gekvtm222605923)
 * DIN-рейки для их потенциального монатажа
 
 Пневматика:
@@ -71,7 +71,7 @@ UaExpert
 
 Остальное:
 * Замены коробки для испытаний модель siemens
-* Кабель Elitronic LIYY 21×0.34 ZL 68081 для замены:
+* Кабель Elitronic LIYY 21×0.34 ZL 68081 для замены (ссылка: https://cable.ru/cable/tkd-kabel_gmbh-elitronic_liyy.php?utm_campaign=search_Inostrannyj_kabel_new_all_Rossiya_Poisk_106078076&utm_medium=cpc&utm_source=yandex&utm_term=ELITRONIC%20LIYY%3A%2015737674738%3A%2049913543453&utm_content=ph%7C49913543453%7Ccid%7C106078076%7Cgid%7C5388928947%7Caid%7C15737674738%7CSOURCE%7Csearch%7Cnone%7CСанкт-Петербург%7C2%7Cdesktop%7CADV%7Ctkd-kabel_gmbh-elitronic_liyy.php%7CELITRONIC%20LIYY%7CDETAIL%7Cpremium%7C1%7Cno%7Cnone%7C49913543453%7Cmain&utm_id=106078076&yclid=18123514714257883135):
   
 [<img src="https://github.com/user-attachments/assets/95cd8a85-98d6-4d4b-8718-fff85e085a2d" width="400">](src)
 
