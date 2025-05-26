@@ -66,7 +66,8 @@ UaExpert
 
 Пневматика:
 * Электромагнитные пневматические клапаны 
-* Фитинги и трубки
+* Фитинги (Например: https://olnisa.ru/sklad/soedinitel/qs-8-soedinitel-czangovyj-festo/?utm_source=yandex&utm_medium=cpc&utm_campaign=Sklad_K-50_%2022-04-2024%2014%3A44%3A05&utm_term=QS-8&mango=%7Cc:110126166%7Cg:5440005543%7Cb:16095607559%7Ck:51347494946%7Cst:search%7Ca:no%7Cs:none%7Ct:premium%7Cp:1%7Cr:51347494946%7Creg:2%7Cnet:%7Byad%7D&utm_content=cid%7C110126166%7Cgid%7C5440005543%7Caid%7C16095607559%7Cadp%7Cno%7Cdvc%7Cdesktop%7Cpid%7C51347494946%7Crid%7C51347494946%7Cdid%7C51347494946%7Cpos%7Cpremium1%7Cadn%7Csearch%7Ccrid%7C0%7C&yclid=10229089975864131583)
+* Трубки (Наример: https://pnevmex.ru/catalog/pnevmaticheskie-truboprovody/pnevmaticheskie-truboprovody-pneumax/pnevmotrubka-poliuretanovaya-pneumax-seriya-tru/pnevmotrubka-poliuretanovaya-tpu-8x6-light-blue/?ysclid=mb55z1iqoi770201494)
 * Промышленные пневматические провода
 
 Остальное:
